@@ -5,6 +5,7 @@ public class Employee {
 		private int id;
 		private int salary;
 		public String getEmpName() {
+			//fkjhgsdjgh
 			return empName;
 		}
 		public void setEmpName(String empName) {
